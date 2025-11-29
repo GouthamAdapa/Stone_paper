@@ -1,0 +1,2 @@
+# Stone_paper
+funnyGame
